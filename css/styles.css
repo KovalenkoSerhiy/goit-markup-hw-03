@@ -293,8 +293,9 @@ ul {
 }
 
 .item-content {
-  margin-top: 32px;
-  margin-bottom: 32px;
+  margin: 32px auto 32px 16px;
+  /* margin-top: 32px;
+  margin-bottom: 32px; */
 }
 
 .portfolio-content li {
